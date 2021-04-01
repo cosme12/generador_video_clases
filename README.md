@@ -6,7 +6,7 @@ Simple generador que combina el video y audio de las clases del Seminario de Pyt
 
 ![imagen2](https://raw.githubusercontent.com/cosme12/generador_video_clases/master/imagenes/imagen2.png)
 
-![imagen3](https://raw.githubusercontent.com/cosme12/generador_video_clases/master/imagenes/imagen2.png)
+![imagen3](https://raw.githubusercontent.com/cosme12/generador_video_clases/master/imagenes/imagen3.png)
 
 
 ## Instalación
