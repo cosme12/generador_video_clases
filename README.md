@@ -7,7 +7,12 @@ Simple generador que combina el video y audio de las clases del Seminario de Pyt
 
 ```pip install -r requirements.txt```
 
-Se requiere `ffmpeg.exe` para combinar el audio con el video. Descargarlo para Windows desde: [FFmpeg](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z) o desde la página oficial: [https://www.ffmpeg.org/](https://www.ffmpeg.org/)
+Se requiere `ffmpeg.exe` para combinar el audio con el video.
+
+Descargarlo para Windows desde: [FFmpeg](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z) 
+
+O desde la página oficial: [https://www.ffmpeg.org/](https://www.ffmpeg.org/)
+
 
 ![imagen1](https://raw.githubusercontent.com/cosme12/generador_video_clases/master/imagenes/imagen1.png)
 
