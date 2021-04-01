@@ -1,18 +1,24 @@
 # Generador de videos para clases de Python
 
-Simple generador que combina el video y audio de las clases de Python del Linti.
+Simple generador que combina el video y audio de las clases del Seminario de Python del Linti.
 
 
 ## Instalación
 
 ```pip install -r requirements.txt```
 
-`ffmpeg` se requiere para combinar el audio con el video.
+Se requiere `ffmpeg.exe` para combinar el audio con el video. Descargarlo para Windows desde: [FFmpeg](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z) o desde la página oficial: [https://www.ffmpeg.org/](https://www.ffmpeg.org/)
+
+![imagen1](https://raw.githubusercontent.com/cosme12/generador_video_clases/master/imagenes/imagen1.png)
+
+![imagen2](https://raw.githubusercontent.com/cosme12/generador_video_clases/master/imagenes/imagen2.png)
+
+![imagen3](https://raw.githubusercontent.com/cosme12/generador_video_clases/master/imagenes/imagen2.png)
 
 
 ## Instrucciones
 
-1. Descargar `pagina web completa` del video de la clase
+1. Descargar `pagina web completa` del video de la clase (`Ctrl + S`)
 
 2. Ejecutar `interfaz.py`
 
